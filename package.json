@@ -1,0 +1,24 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "Manage and edit your bookmark files",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxhu787/Electron-App.git"
+  },
+  "keywords": [
+    "Electron",
+    "Bookmark",
+    "Bookmark manager"
+  ],
+  "author": "Max Hu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maxhu787/Electron-App/issues"
+  },
+  "homepage": "https://github.com/Maxhu787/Electron-App#readme",
+  "devDependencies": {
+    "electron": "^19.0.10"
+  }
+}
