@@ -23,5 +23,9 @@
   "homepage": "https://github.com/Maxhu787/Electron-App#readme",
   "devDependencies": {
     "electron": "^19.0.10"
+  },
+  "dependencies": {
+    "remote": "^0.2.6",
+    "save-dev": "^0.0.1-security"
   }
 }
