@@ -2,7 +2,7 @@
   "name": "electron-app",
   "version": "1.0.0",
   "description": "Manage and edit your bookmark files",
-  "main": "index.js",
+  "main": "src/main.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Maxhu787/Electron-App.git"
